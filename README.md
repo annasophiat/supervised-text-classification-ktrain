@@ -1,1 +1,1 @@
-# supervised-text-classification-ktrain
+# Supervised Text Classification with KTrain
